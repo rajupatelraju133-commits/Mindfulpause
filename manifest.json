@@ -1,0 +1,21 @@
+{
+  "name": "Mindful Pause",
+  "short_name": "MindfulPause",
+  "description": "A simple and calming meditation timer with guided breathing sessions.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fbcfe8",
+  "theme_color": "#f43f5e",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/f43f5e/ffffff?text=MP",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/f43f5e/ffffff?text=MP",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
